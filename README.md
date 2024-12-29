@@ -10,7 +10,7 @@ This project is a menu-driven C++ application for generating various sequences (
 ## How to Run
 1. Clone the repository: `git clone https://github.com/1brah1m-aba512/Sequence-Generator.git`
 2. Navigate to the directory: `cd Sequence-Generator`
-3. Compile the program: `g++ main.cpp -o Sequence-Generator`
+3. Compile the program: `g++ *.cpp -o Sequence-Generator`
 4. Run the program: `./Sequence-Generator`
 
 ## Future Improvements
